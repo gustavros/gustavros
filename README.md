@@ -1,4 +1,6 @@
-## Hello, Sr. 👋
+<div align="center">
+
+  # Hello. 🖐
 
 Meu nome é Gustavo Santana, tenho 21 anos, Pernambucano, e estudante de programação Front-End. ✌
 
@@ -24,6 +26,7 @@ Meu nome é Gustavo Santana, tenho 21 anos, Pernambucano, e estudante de program
 
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/gustavo-santana-b13330235/)
 [![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)](gustavro#2405)
+</div>
 
 
 
