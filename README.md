@@ -1,6 +1,6 @@
 ## Hello, Sr. 👋
 
-Meu nome é Gustavo Santana, tenho 21 anos, moro em Pernambuco, sou estudante de programação Front-End. ✌
+Meu nome é Gustavo Santana, tenho 21 anos, Pernambucano, e estudante de programação Front-End. ✌
 
 ## Estudando
 
