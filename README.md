@@ -13,11 +13,12 @@ Meu nome é Gustavo Santana, tenho 21 anos, moro em Pernambuco, sou estudante de
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavros&layout=compact)]()
+
+
 ## 🛠 Ferramentas
 
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavros&layout=compact)]()
 
 ## 📫 Contato
 
