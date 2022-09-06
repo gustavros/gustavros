@@ -10,7 +10,7 @@ Meu nome é Gustavo Santana, tenho 22 anos, moro em Abreu e Lima-PE, sou desenvo
 
 ## 📚 Estudando
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,mysql)](https://skillicons.dev)
+[![Studying](https://skillicons.dev/icons?i=typescript,mysql)](https://skillicons.dev)
 
 ## 📋 Skills
 
@@ -18,7 +18,8 @@ Meu nome é Gustavo Santana, tenho 22 anos, moro em Abreu e Lima-PE, sou desenvo
 
 ## 📫 Contatos
 
-[![Instagram Badge](https://img.shields.io/badge/@gustavron-2D425E?style=flat&labelColor=2D425E&logo=instagram&logoColor=white&link=https://instagram.com/leuvargas)](https://www.instagram.com/gustavron)
-[![Linkedin Badge](https://img.shields.io/badge/Gustavo%20Santana-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-luis-de-vargas/)](https://www.linkedin.com/in/gustavo-santana-b13330235/) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/gustavron/)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustavro/)
+
 
 ![gustavros github stats](https://github-readme-stats.vercel.app/api?username=gustavros&hide=[%22issues%22]&show_icons=true)
