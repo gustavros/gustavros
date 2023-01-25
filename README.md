@@ -10,11 +10,11 @@ Meu nome é Gustavo Santana, tenho 22 anos, moro em Abreu e Lima-PE, sou desenvo
 
 ## 📚 Estudando
 
-[![Studying](https://skillicons.dev/icons?i=typescript,mysql)](https://skillicons.dev)
+[![Studying](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 
 ## 📋 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind,sass,typescript,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind,sass)](https://skillicons.dev)
 
 ## 📫 Contatos
 
