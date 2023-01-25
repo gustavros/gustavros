@@ -18,7 +18,7 @@ Meu nome é Gustavo Santana, tenho 22 anos, moro em Abreu e Lima-PE, sou desenvo
 
 ## 📫 Contatos
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/gustavron/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/gustawro/)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustavro/)
 
 
