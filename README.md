@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-My name is Gustavo and i'm developer front-end focusing on ReactJS
+My name is Gustavo and i'm developer front-end.
 
 
 ## 📋 Skills
