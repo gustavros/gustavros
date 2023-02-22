@@ -13,4 +13,4 @@ My name is Gustavo and i'm developer front-end focusing on ReactJS
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustavro/)
 
 
-<img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=guustavros&layout=compact&theme=dracula">
+<img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=gustavros&layout=compact&theme=dracula">
