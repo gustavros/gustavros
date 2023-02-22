@@ -5,7 +5,7 @@ My name is Gustavo and i'm developer front-end focusing on ReactJS
 
 ## 📋 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,html,css,tailwind,sass,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,sass,styledcomponents)](https://skillicons.dev)
 
 ## 📫 Contact
 
