@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-My name is Gustavo and i'm developer front-end.
+My name is gustavo and I'm a front-end developer.
 
 
 ## 📋 Skills
