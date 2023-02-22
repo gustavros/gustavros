@@ -1,25 +1,16 @@
-# Olá! 👋
+# Welcome to my profile!
 
-Meu nome é Gustavo Santana, tenho 22 anos, moro em Abreu e Lima-PE, sou desenvolvedor Front-End.
+My name is Gustavo and i'm developer front-end focusing on ReactJS
 
-### 💡 Curiosidades
-
-- Sou fã de Sherlock Holmes e amo puzzles.
-- Gosto de jogar uns jogos ai.
-- Comida preferida: Esfirras e pudim.
-
-## 📚 Estudando
-
-[![Studying](https://skillicons.dev/icons?i=styledcomponents)](https://skillicons.dev)
 
 ## 📋 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,html,css,tailwind,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,html,css,tailwind,sass,styledcomponents)](https://skillicons.dev)
 
-## 📫 Contatos
+## 📫 Contact
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/gustawro/)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustavro/)
 
 
-![gustavros github stats](https://github-readme-stats.vercel.app/api?username=gustavros&hide=[%22issues%22]&show_icons=true)
+<img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=guustavros&layout=compact&theme=dracula">
