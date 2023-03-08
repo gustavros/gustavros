@@ -1,7 +1,8 @@
-# Welcome to my profile!
+# Bem vindo ao meu perfil!
 
-My name is gustavo and I'm a front-end developer.
+Desenvolvedor front-end.
 
+Atualmente desenvolvo projetos associando modernas ferramentas de desenvolvimento com as necessidades do dia a dia do usuário a fim de solucionar problemas reais e sempre buscando melhorias no processo. Como vivemos em um mundo em constante transformação, acredito que a melhor forma de se manter atualizado é continuar aprendendo continuamente.
 
 ## 📋 Skills
 
