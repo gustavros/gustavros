@@ -1,4 +1,4 @@
-# Bem vindo ao meu perfil!
+# Bem vindo ao meu perfil
 
 Desenvolvedor front-end.
 
@@ -6,7 +6,7 @@ Atualmente desenvolvo projetos associando modernas ferramentas de desenvolviment
 
 ## 📋 Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,sass,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,csstypescript,react,nextjs,tailwind,sass,styledcomponents)](https://skillicons.dev)
 
 ## 📫 Contato
 
