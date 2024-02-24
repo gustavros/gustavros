@@ -10,7 +10,6 @@ Atualmente desenvolvo projetos associando modernas ferramentas de desenvolviment
 
 ## 📫 Contato
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/gustawro/)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustavro/)
 
 
