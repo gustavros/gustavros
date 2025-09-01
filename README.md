@@ -1,16 +1,17 @@
-# Bem vindo ao meu perfil.
+# 👋 Bem-vindo ao meu perfil!
 
-Desenvolvedor front-end.
+Sou **Desenvolvedor Front-end**, entusiasta de tecnologia e apaixonado por criar interfaces modernas, performáticas e escaláveis.  
+Atualmente trabalho principalmente com **React, Next.js e TypeScript**, além de estar expandindo meus conhecimentos em **Node.js, PostgreSQL, Drizzle ORM e testes automatizados**.  
 
-Atualmente desenvolvo projetos associando modernas ferramentas de desenvolvimento com as necessidades do dia a dia do usuário a fim de solucionar problemas reais e sempre buscando melhorias no processo.
+## 🚀 Habilidades
 
-## 📋 Habilidades
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,typescript,react,nextjs,tailwind,styledcomponents,nodejs,postgres,docker,git)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,typescript,react,nextjs,tailwind,sass,styledcomponents)](https://skillicons.dev)
+## 📈 Estatísticas
+
+<img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=gustavros&layout=compact&theme=dracula"/>
 
 ## 📫 Contato
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustavro/)
-
-
-<img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=gustavros&layout=compact&theme=dracula">
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustavro/)  
+📩 **Email:** gustavossw1@gmail.com
