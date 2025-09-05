@@ -1,11 +1,11 @@
 # 👋 Bem-vindo ao meu perfil!
 
 Sou **Desenvolvedor Front-end**, entusiasta de tecnologia e apaixonado por criar interfaces modernas, performáticas e escaláveis.  
-Atualmente trabalho principalmente com **React, Next.js e TypeScript**, além de estar expandindo meus conhecimentos em **Node.js, PostgreSQL, Drizzle ORM e testes automatizados**.  
+Atualmente trabalho principalmente com **React, Next.js e TypeScript**, **Node.js, PostgreSQL, Drizzle ORM e testes automatizados**.  
 
 ## 🚀 Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,typescript,react,nextjs,tailwind,styledcomponents,nodejs,postgres,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,typescript,react,nextjs,tailwind,styledcomponents,nodejs,postgres,git,jest,reacttestinglibrary)](https://skillicons.dev)
 
 ## 📈 Estatísticas
 
